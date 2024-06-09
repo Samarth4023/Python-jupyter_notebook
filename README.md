@@ -39,7 +39,6 @@ Learning Python is like assembling a puzzle—you collect pieces from various so
 
 Let's learn together! Feel free to connect with me on:
 
-- LinkedIn (Profile)
-- GitHub
+- GitHub Profile Readme.md
 
 Happy coding! 🎉
