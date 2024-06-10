@@ -3,6 +3,8 @@
 Welcome to my Python journey repository! 🚀 
 As a beginner, I'm excited to share my progress, learnings, and adventures in the world of Python programming. Whether you're a fellow newbie or an experienced coder, I hope you find something valuable here.
 
+If you want to clone this repo and run it on your local machine and don't have jupyter notebook, then dont't worry your friend has created another repo named as *Python-py_files* with same contents as this repo but with .py files so that your learning never stops ;)
+
 ## Table of Contents
 
 - About Me
@@ -37,7 +39,6 @@ Learning Python is like assembling a puzzle—you collect pieces from various so
 
 Let's learn together! Feel free to connect with me on:
 
-- LinkedIn (Profile)
-- GitHub
+- GitHub Profile Readme.md
 
 Happy coding! 🎉
